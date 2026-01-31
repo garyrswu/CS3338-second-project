@@ -1,0 +1,36 @@
+commit c33307bb3ae9541552cd209fe80ef5e634092ff1
+Merge: 2ce4e03 a679ba9
+Author: Gary W <garyrswu@gmail.com>
+Date:   Fri Jan 30 16:57:02 2026 -0800
+
+    fixed conflicts
+
+commit a679ba9df45914ffcebcf6ecbc5e9273589dbcfe
+Author: Gary W <garyrswu@gmail.com>
+Date:   Fri Jan 30 16:51:59 2026 -0800
+
+    added my favorite movie
+
+commit 2ce4e035303deed2f84ee92edaba37ee33ac64fa
+Author: Gary W <garyrswu@gmail.com>
+Date:   Fri Jan 30 16:49:58 2026 -0800
+
+    added my favorite food
+
+commit a28a046afc43c8a4828471403553285d83f94a52
+Author: Gary W <garyrswu@gmail.com>
+Date:   Fri Jan 30 16:47:09 2026 -0800
+
+    Created a README
+
+commit e1f418adfea27214ad4adc06e395fa008c72a1cf
+Author: Gary W <garyrswu@gmail.com>
+Date:   Fri Jan 30 16:39:48 2026 -0800
+
+    filled in the blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
